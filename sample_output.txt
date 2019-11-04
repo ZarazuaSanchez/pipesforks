@@ -1,0 +1,8 @@
+a = T
+b = F
+c = T
+d = F
+v0 = T
+v1 = T
+v2 = F
+v3 = F
